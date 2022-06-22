@@ -1,0 +1,42 @@
+{
+  "name": "@delon/abc",
+  "version": "11.7.0",
+  "author": "cipchk<cipchk@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng-alain/delon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ng-alain/ng-alain/issues"
+  },
+  "homepage": "https://ng-alain.com",
+  "keywords": [
+    "delon",
+    "ng-alain",
+    "alain",
+    "antd",
+    "ng-zorro-antd",
+    "angular",
+    "component"
+  ],
+  "dependencies": {
+    "isutf8": "^3.1.1",
+    "file-saver": "^2.0.5",
+    "@types/jszip": "^3.4.1",
+    "xlsx": "^0.16.9",
+    "ngx-countdown": "^11.0.1",
+    "@delon/theme": "^11.7.0",
+    "@delon/util": "^11.7.0",
+    "@delon/acl": "^11.7.0",
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/abc.umd.js",
+  "module": "fesm2015/abc.js",
+  "es2015": "fesm2015/abc.js",
+  "esm2015": "esm2015/abc.js",
+  "fesm2015": "fesm2015/abc.js",
+  "typings": "abc.d.ts",
+  "metadata": "abc.metadata.json",
+  "sideEffects": false
+}
